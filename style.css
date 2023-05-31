@@ -22,24 +22,24 @@
     height: 500px;
     margin: 10px;
     border-radius: 50px;
-    background: url(/images/image-1.png);
+    background: url(images/image-1.png);
     background-size: cover;
     background-position: center;
     position: relative;
     transition: width 0.5s;
 }
 .img-box:nth-child(2){
-    background: url(/images/image-2.png);
+    background: url(images/image-2.png);
     background-size: cover;
     background-position: center;
 }
 .img-box:nth-child(3){
-    background: url(/images/image-3.png);
+    background: url(images/image-3.png);
     background-size: cover;
     background-position: center;
 }
 .img-box:nth-child(4){
-    background: url(/images/image-4.png);
+    background: url(images/image-4.png);
     background-size: cover;
     background-position: center;
 }
